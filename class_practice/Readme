@@ -1,0 +1,10 @@
+bank/
+├── Account.h        // 基础账户类定义
+├── Account.cpp      // 基础账户类实现
+├── SavingsAccount.h // 储蓄账户类定义
+├── SavingsAccount.cpp // 储蓄账户类实现
+├── CreditAccount.h  // 信用账户类定义
+├── CreditAccount.cpp // 信用账户类实现
+├── AccountManager.h // 账户管理类定义
+├── AccountManager.cpp // 账户管理类实现
+└── main.cpp         // 主程序入口

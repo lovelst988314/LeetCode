@@ -1,10 +1,8 @@
 #include<iostream>
 
-using namespace std;
-
-int main()
-{
-    cout << "Hello, World!" << endl;
-    cout << "This is a C++ program using the C++17 standard." << endl;
+int main() {
+    system("chcp 65001"); // 设置控制台编码为 UTF-8 
+    std::cout << "你好" << std::endl;
+    // 这里可以添加更多代码来测试其他功?
     return 0;
 }
